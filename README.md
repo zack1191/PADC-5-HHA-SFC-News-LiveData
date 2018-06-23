@@ -1,1 +1,2 @@
-# PADC-5-HHA-SFC-News-LiveData
+# PADC-SFC-News
+Walk-through on Android Seven Fundamental Components.
